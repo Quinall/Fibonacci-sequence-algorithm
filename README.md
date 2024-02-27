@@ -14,3 +14,6 @@ The program then outputs the Fibonacci sequence for the specified limit, along w
 
 Example Output
 For N = 100, the output would be:
+
+F(100) = 354224848179261915075
+Number of digits: 21
